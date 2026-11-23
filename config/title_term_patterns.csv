@@ -1,0 +1,51 @@
+﻿term,pattern
+carbon emissions,\b(?:carbon|co\s*2|co₂|carbon dioxide)[- ]?(?:emissions?|emitting)\b|\b(?:emissions? of co\s*2)\b
+greenhouse gas emissions,\b(?:ghg|greenhouse gas(?:es)?)[- ]?emissions?\b
+oil refinery,\b(?:oil|petroleum|crude oil)[- ]?refiner(?:y|ies)\b|\brefiner(?:y|ies)\b|\bpetroleum refining\b
+refining process,\brefining (?:process(?:es)?|industry|sector|operations?)\b
+carbon footprint,\bcarbon footprint(?:s)?\b
+life cycle assessment,\blife[- ]cycle (?:assessment|analysis|ghg)\b|\blca\b
+machine learning,\bmachine[- ]learning\b|\bautoml\b
+deep learning,\bdeep[- ]learning\b|\bdeep neural\b
+artificial intelligence,\bartificial intelligence\b|\bai[- ](?:based|aided|driven|assisted)\b
+random forest,\brandom forest\b
+xgboost,\bxgboost\b
+neural network,\b(?:artificial |convolutional |graph )?neural network(?:s)?\b
+SHAP,\bshap\b|\bshapley\b
+LMDI,\blmdi\b
+emission inventory,\b(?:emissions?|carbon) inventor(?:y|ies)\b
+emission intensity,\b(?:carbon|co\s*2|ghg|emissions?) intensity\b
+energy efficiency,\benergy[- ]efficien(?:t|cy)\b
+energy consumption,\benergy consumption\b|\benergy use\b
+carbon capture,\bcarbon capture\b|\bco\s*2 capture\b|\bccus?\b
+hydrogen,\bhydrogen\b
+renewable energy,\brenewable energ(?:y|ies)\b
+decarbonization,\bdecarboni[sz](?:ation|e|ing)\b|\bdefossili[sz]ation\b
+carbon neutrality,\bcarbon neutral(?:ity)?\b|\bnet[- ]zero\b
+carbon accounting,\bcarbon account(?:ing)?\b|\bcarbon quantification\b
+carbon pricing,\bcarbon pric(?:es|ing)\b|\bcarbon tax(?:es)?\b|\bcarbon trading\b
+optimization,\boptimi[sz](?:ation|ing|ed|e|er|ers)\b
+prediction and forecasting,\bforecast(?:s|ing|ed)?\b|\bpredict(?:ion|ions|ive|ing|ed)?\b
+simulation,\bsimulation(?:s)?\b|\bsimulat(?:ed|ion|ing)\b
+modeling,\bmodell?ing\b|\bmodels?\b
+remote sensing,\bremote sensing\b|\bsatellite (?:monitoring|imagery|observations?)\b
+nighttime lights,\bnight[- ]?time lights?\b|\bnightlight\b|\bviirs\b|\bdmsp[/-]ols\b
+spatial analysis,\bspatial\b|\bgeographic\b|\bgeospatial\b
+temporal analysis,\btemporal\b|\btime[- ]series\b|\bspatio[- ]temporal\b
+scenario analysis,\bscenario(?:s)?\b|\bpathways?\b
+driver analysis,\bdriving (?:factors?|forces?)\b|\b(?:influencing|driving) factors?\b
+decomposition analysis,\bdecomposition\b
+uncertainty analysis,\buncertaint(?:y|ies)\b|\bsensitivity analysis\b
+petrochemical industry,\bpetrochemical\b|\bpetroleum industr(?:y|ies)\b
+biofuels,\bbiofuel(?:s)?\b|\bbiofeedstocks?\b|\bbiomass\b
+fluid catalytic cracking,\bfluid catalytic crack(?:ing|er)?\b|\bfcc\b
+electricity,\belectricity\b|\belectrical power\b
+steam,\bsteam\b
+China,\bchina\b|\bchinese\b
+global,\bglobal\b|\bworldwide\b
+supply chain,\bsupply chain\b
+economic analysis,\beconomic(?:s)?\b|\bcost[- ](?:benefit|effectiveness)\b
+政策与减排,碳排放|减排|政策|节能
+炼油行业,炼油|炼厂|炼化|石化|石油加工
+机器学习,机器学习|深度学习|人工智能|神经网络
+生命周期评价,生命周期|碳足迹

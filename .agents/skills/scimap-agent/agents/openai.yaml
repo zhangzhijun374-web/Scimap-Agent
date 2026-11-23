@@ -1,0 +1,4 @@
+interface:
+  display_name: "SciMap-Agent"
+  short_description: "Automate bibliometric analysis and knowledge maps"
+  default_prompt: "Analyze my Zotero, Web of Science, Scopus, or RIS exports and create publication-style keyword maps, overlay/density figures, tables, and a reproducible report."

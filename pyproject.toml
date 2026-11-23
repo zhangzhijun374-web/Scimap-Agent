@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scimap-agent"
+version = "0.4.3"
+description = "Reproducible bibliometric analysis and scientific knowledge mapping for Codex"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "SciMap-Agent contributors"}]
+dependencies = [
+  "pandas>=2.1",
+  "numpy>=1.26",
+  "networkx>=3.4",
+  "matplotlib>=3.8",
+  "scipy>=1.11"
+]
+
+[project.scripts]
+scimap = "scimap_agent.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

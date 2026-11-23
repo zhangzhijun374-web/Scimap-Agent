@@ -1,0 +1,8 @@
+article
+articles
+study
+studies
+research
+approach
+method
+methods

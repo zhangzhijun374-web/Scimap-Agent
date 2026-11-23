@@ -1,0 +1,75 @@
+FN Clarivate Web of Science
+VR 1.0
+PT J
+AU Smith, A
+TI Machine learning for environmental risk assessment
+SO Environmental Research
+PY 2021
+DI 10.0000/example.001
+DE machine learning; environmental risk; toxicity
+ID artificial intelligence; risk assessment
+AB This is a synthetic demonstration record.
+TC 12
+UT WOS:DEMO0001
+ER
+PT J
+AU Jones, B
+TI Predicting chemical toxicity using machine learning
+SO Environmental Science
+PY 2022
+DI 10.0000/example.002
+DE machine learning; chemical toxicity; toxicity
+ID risk assessment; in silico
+AB This is a synthetic demonstration record.
+TC 18
+UT WOS:DEMO0002
+ER
+PT J
+AU Lee, C
+TI In silico models for chemical risk assessment
+SO Toxicology Letters
+PY 2020
+DI 10.0000/example.003
+DE in silico; chemical toxicity; risk assessment
+ID toxicity; computational toxicology
+AB This is a synthetic demonstration record.
+TC 9
+UT WOS:DEMO0003
+ER
+PT J
+AU Patel, D
+TI Artificial intelligence in environmental toxicology
+SO Environmental Modelling
+PY 2023
+DI 10.0000/example.004
+DE artificial intelligence; environmental risk; toxicity
+ID machine learning; computational toxicology
+AB This is a synthetic demonstration record.
+TC 22
+UT WOS:DEMO0004
+ER
+PT J
+AU Chen, E
+TI Computational toxicology and chemical safety
+SO Chemical Safety
+PY 2024
+DI 10.0000/example.005
+DE computational toxicology; chemical toxicity; risk assessment
+ID in silico; toxicity
+AB This is a synthetic demonstration record.
+TC 4
+UT WOS:DEMO0005
+ER
+PT J
+AU Garcia, F
+TI Environmental risk prediction with artificial intelligence
+SO Environmental Data Science
+PY 2024
+DI 10.0000/example.006
+DE environmental risk; artificial intelligence; machine learning
+ID risk assessment; predictive modelling
+AB This is a synthetic demonstration record.
+TC 6
+UT WOS:DEMO0006
+ER
+EF
